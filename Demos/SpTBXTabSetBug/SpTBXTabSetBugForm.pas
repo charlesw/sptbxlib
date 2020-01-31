@@ -11,6 +11,12 @@ type
     SpTBXTabSet1: TSpTBXTabSet;
     SpTBXTabItem1: TSpTBXTabItem;
     SpTBXTabItem2: TSpTBXTabItem;
+    SpTBXStatusBar1: TSpTBXStatusBar;
+    SpTBXItem1: TSpTBXItem;
+    SpTBXItem2: TSpTBXItem;
+    SpTBXItem3: TSpTBXItem;
+    SpTBXTabItem3: TSpTBXTabItem;
+    SpTBXTabItem4: TSpTBXTabItem;
     procedure FormCreate(Sender: TObject);
   private
     { Private declarations }
